@@ -39,5 +39,11 @@ My current focus is on:
 
 ---
 
+## 🔗 LET'S CONNECT
+- https://www.linkedin.com/in/ishita-saraswat-b2a641297
+- ishita.saraswat19@gmail.com
+
+---
+
 ### ✨ *“Turning ideas into code, and code into solutions.”*  
 
