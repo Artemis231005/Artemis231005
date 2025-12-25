@@ -38,11 +38,6 @@ I work with structured datasets using SQL, Excel, Tableau, Power BI and Python a
 
 ---
 
-## GitHub Stats  
-![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemis231005&show_icons=true&bg_color=0d1117&title_color=ff69b4&icon_color=03f0fc&text_color=ffffff&border_color=ff69b4)  
-
----
-
 ## LET'S CONNECT
 - https://www.linkedin.com/in/ishita-saraswat-b2a641297
 - ishita.saraswat19@gmail.com
